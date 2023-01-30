@@ -1,5 +1,5 @@
 {
-  "heading": "A NATO-tag európai országok",
+  "heading": "Európai országok, amelyek NEM tagjai a NATO-nak",
   "subheading": "A NATO egy 30 független tagállamból álló szövetség.",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson további információkért"
 }

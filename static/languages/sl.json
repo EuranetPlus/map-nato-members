@@ -1,5 +1,5 @@
 {
-  "heading": "evropskih držav, ki so članice Nata",
+  "heading": "Evropske države, ki NISO članice Nata",
   "subheading": "Nato je zavezništvo, ki ga sestavlja 30 neodvisnih držav članic.",
   "legend1": "Ni podatkov",
   "tooltip1": "",
@@ -7,7 +7,7 @@
   "textSource": "",
   "textNoteDescription": "Opomba",
   "textNote": "",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
   "textCountryClick": "Kliknite za več informacij"
 }
