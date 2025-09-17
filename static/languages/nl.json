@@ -1,6 +1,6 @@
 {
   "heading": "Europese landen die GEEN lid zijn van de NAVO",
-  "subheading": "De NAVO is een alliantie die bestaat uit 30 onafhankelijke lidstaten.",
+  "subheading": "De NAVO is een bondgenootschap dat bestaat uit 30 onafhankelijke lidstaten.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "",
   "textSourceDescription": "Bron",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

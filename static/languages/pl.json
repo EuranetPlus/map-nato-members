@@ -1,13 +1,13 @@
 {
   "heading": "Kraje europejskie, które NIE są członkami NATO",
-  "subheading": "NATO jest Sojuszem, który składa się z 30 niezależnych państw członkowskich.",
+  "subheading": "NATO jest sojuszem składającym się z 30 niezależnych państw członkowskich.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "",
   "textSourceDescription": "Źródło",
   "textSource": "",
-  "textNoteDescription": "Uwaga",
+  "textNoteDescription": "Notatka",
   "textNote": "",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

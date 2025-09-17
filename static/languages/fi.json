@@ -1,7 +1,7 @@
 {
-  "heading": "Euroopan maat, jotka EIVÄT ole Naton jäseniä",
-  "subheading": "Nato on liitto, johon kuuluu 30 itsenäistä jäsenmaata.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Euroopan maat, jotka EIVÄT ole NATOn jäseniä",
+  "subheading": "Nato on liittouma, johon kuuluu 30 itsenäistä jäsenvaltiota.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "",
   "textSourceDescription": "Lähde",
   "textSource": "",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

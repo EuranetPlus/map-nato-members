@@ -1,13 +1,13 @@
 {
   "heading": "Europäische Länder, die NICHT Mitglieder der NATO sind",
-  "subheading": "Die NATO ist ein Bündnis, das aus 30 unabhängigen Mitgliedsstaaten besteht.",
+  "subheading": "Die NATO ist ein Bündnis, das aus 30 unabhängigen Mitgliedsländern besteht.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "",
   "textSourceDescription": "Quelle",
   "textSource": "",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

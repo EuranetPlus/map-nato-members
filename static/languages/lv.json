@@ -1,7 +1,7 @@
 {
-  "heading": "Eiropas valstis, kuras NAV NATO dalībvalstis",
+  "heading": "Eiropas valstis, kas NAV NATO dalībvalstis",
   "subheading": "NATO ir alianse, kas sastāv no 30 neatkarīgām dalībvalstīm.",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "",
   "textSourceDescription": "Avots",
   "textSource": "",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

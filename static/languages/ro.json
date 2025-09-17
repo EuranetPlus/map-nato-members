@@ -1,13 +1,13 @@
 {
-  "heading": "Țări europene care NU sunt membre NATO",
+  "heading": "Țările europene care NU sunt membre NATO",
   "subheading": "NATO este o Alianță formată din 30 de țări membre independente.",
-  "legend1": "Nici o informatie disponibila",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "",
   "textSourceDescription": "Sursă",
   "textSource": "",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
-  "textCountryClick": "Click pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

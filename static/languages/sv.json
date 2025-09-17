@@ -1,13 +1,13 @@
 {
-  "heading": "Europeiska länder som INTE är medlemmar i NATO",
-  "subheading": "Nato är en allians som består av 30 oberoende medlemsländer.",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "Europeiska länder som INTE är medlemmar i Nato",
+  "subheading": "NATO är en allians som består av 30 oberoende medlemsländer.",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "",
   "textSourceDescription": "Källa",
   "textSource": "",
   "textNoteDescription": "Notera",
   "textNote": "",
-  "textDataAccess": "Få åtkomst till data",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

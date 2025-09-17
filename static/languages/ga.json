@@ -1,13 +1,13 @@
 {
-  "heading": "Tíortha Eorpacha NACH baill de NATO iad",
-  "subheading": "Is Comhghuaillíocht é NATO atá comhdhéanta de 30 ballstát neamhspleách.",
+  "heading": "Tíortha Eorpacha nach bhfuil ina mbaill de NATO",
+  "subheading": "Is Comhghuaillíocht í NATO atá comhdhéanta de 30 tír neamhspleácha.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "",
   "textSourceDescription": "Foinse",
   "textSource": "",
   "textNoteDescription": "Nóta",
   "textNote": "",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://www.nato.int/cps/ga/natohq/nato_countries.htm",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

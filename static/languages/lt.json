@@ -1,13 +1,13 @@
 {
   "heading": "Europos šalys, kurios NĖRA NATO narės",
-  "subheading": "NATO yra Aljansas, kurį sudaro 30 nepriklausomų valstybių narių.",
+  "subheading": "NATO yra aljansas, kurį sudaro 30 nepriklausomų valstybių narių.",
   "legend1": "Nėra duomenų",
   "tooltip1": "",
   "textSourceDescription": "Šaltinis",
   "textSource": "",
   "textNoteDescription": "Pastaba",
   "textNote": "",
-  "textDataAccess": "Pasiekite duomenis",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

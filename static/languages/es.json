@@ -1,13 +1,13 @@
 {
   "heading": "Países europeos que NO son miembros de la OTAN",
-  "subheading": "La OTAN es una Alianza que consta de 30 países miembros independientes.",
-  "legend1": "Datos no disponibles",
+  "subheading": "La OTAN es una alianza formada por 30 países miembros independientes.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "",
   "textSourceDescription": "Fuente",
   "textSource": "",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Accede a los datos",
+  "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textCountryClick": "Haga clic para más información"
 }
